@@ -1,0 +1,14 @@
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\bin\Debug\net8.0\Criando um sistema para estacionamento em C#.exe
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\bin\Debug\net8.0\Criando um sistema para estacionamento em C#.deps.json
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\bin\Debug\net8.0\Criando um sistema para estacionamento em C#.runtimeconfig.json
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\bin\Debug\net8.0\Criando um sistema para estacionamento em C#.dll
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\bin\Debug\net8.0\Criando um sistema para estacionamento em C#.pdb
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.AssemblyInfoInputs.cache
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.AssemblyInfo.cs
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.dll
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\refint\Criando um sistema para estacionamento em C#.dll
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.pdb
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\Criando um sistema para estacionamento em C#.genruntimeconfig.cache
+C:\Users\abrah\OneDrive\Documentos\DEV\DIO\.NET AVANADE\Projetos Práticos\Criando um sistema para estacionamento em C#\obj\Debug\net8.0\ref\Criando um sistema para estacionamento em C#.dll
